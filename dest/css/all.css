@@ -17297,8 +17297,7 @@ body {
     #orderPageRightside #orderPageRightSideBottom div {
       display: flex;
       justify-content: center;
-      align-items: center;
-      width: 400px; }
+      align-items: center; }
       #orderPageRightside #orderPageRightSideBottom div #orderPageRightSideBottomBtn3 {
         font-size: 25px;
         border-style: none;
